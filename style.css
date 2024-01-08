@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-image: url("https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#abc {
+    background-image: url("https://p7.hiclipart.com/preview/92/319/609/computer-icons-person-clip-art-name.jpg");
+    background-repeat: no-repeat;
+    background-size: 15px;
+    padding-left: 40px;
+    margin-bottom: 20px;
+    background-position: 5px;
+    font-family: sans-serif;
+    font-weight: 600;
+    height: 30px;
+    margin-inline-start: 20px;
+}
+
+#bbb {
+    background-image: url("https://banner2.cleanpng.com/20180718/vws/kisspng-email-logo-bounce-address-computer-icons-message-online-application-5b4f433eed6ac1.5937710415319212149725.jpg");
+    background-repeat: no-repeat;
+    background-size: 15px;
+    padding-left: 40px;
+    margin-bottom: 20px;
+    background-position: 5px;
+    font-family: sans-serif;
+    font-weight: 600;
+    height: 30px;
+    margin-inline-start: 20px;
+
+}
+
+#ccc {
+    background-image: url("https://png.pngtree.com/png-vector/20190115/ourmid/pngtree-vector-lock-icon-png-image_318067.jpg");
+    background-repeat: no-repeat;
+    background-size: 15px;
+    padding-left: 40px;
+    margin-bottom: 20px;
+    background-position: 5px;
+    font-family: sans-serif;
+    font-weight: 600;
+    height: 30px;
+    margin-inline-start: 20px;
+
+}
+
+#eee{
+margin: -10px 0px;
+}
+.main {
+    width: 320px;
+    height: 420px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+}
+#Country{
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    margin: 20px 80px;
+}
+button{
+    margin: 0px 40px;
+    width: 70%;
+    height: 30px;
+    background-color: green;
+    color: white;
+}
